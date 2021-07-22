@@ -1,0 +1,11 @@
+mercedes
+mcdonalds
+apple
+microsoft
+nintendo
+sony
+xiaomi
+samsung
+motorola
+volkswagen
+asus

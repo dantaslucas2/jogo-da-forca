@@ -1,0 +1,5 @@
+caneco
+livro
+cadeira
+lapiz
+borracha
